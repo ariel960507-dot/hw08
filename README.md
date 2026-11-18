@@ -1,8 +1,8 @@
 [readme_template.md](https://github.com/user-attachments/files/35006313/readme_template.md)
 # Python 聚餐費用試算器
 
-- 姓名：請填入自己的姓名
-- 學號：請填入自己的學號
+- 姓名：張儷馨
+- 學號：D1445977
 
 ## 程式用途與執行方式
 
